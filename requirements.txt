@@ -5,5 +5,5 @@ langchain-google-genai
 google-generativeai
 chromadb
 python-dotenv
-pypdf2
+pypdf
 tiktoken
